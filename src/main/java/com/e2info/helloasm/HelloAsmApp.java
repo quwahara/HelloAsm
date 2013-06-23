@@ -12,8 +12,11 @@ import org.objectweb.asm.Opcodes;
 import org.objectweb.asm.util.TraceClassVisitor;
 
 /**
- * License: MIT http://opensource.org/licenses/MIT
- * Copyright (c) 2013 mitsuaki kuawhara <quwahara@gmail.com>
+ * License: MIT
+ * 
+ * http://opensource.org/licenses/MIT
+ * 
+ * Copyright (c) 2013 mitsuaki kuwahara <quwahara@gmail.com>
  */
 public class HelloAsmApp 
 {
